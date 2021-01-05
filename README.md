@@ -1,9 +1,7 @@
 demo terraform module
 ===========
 
-A terraform module to provide datasources in AWS. 
-
-Only MySQL is supported at this time.
+A terraform module to provide a webserver cluster in AWS. 
 
 Authors
 =======
